@@ -189,7 +189,7 @@ This project is inspired by Salvador et al. (CVPR 2017) but is not a replication
 ## Related Projects
 
 - [Recipe-Intelligence-Platform](https://github.com/drnsmith/recipe-intelligence-platform) — text-only pipeline (v1)
-- [AI-Recipe-Classifier](https://github.com/drnsmith/recipe-difficulty-classifier) — difficulty classification benchmark
+- [Recipe-Difficulty-Classifier](https://github.com/drnsmith/recipe-difficulty-classifier) — difficulty classification benchmark
 
 ---
 
