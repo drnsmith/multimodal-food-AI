@@ -1,3 +1,5 @@
+> ⚠️ **Implementation in progress.** Architecture and design documented. Code development begins once recipe-intelligence-platform v1 is complete.
+
 # Multimodal Food AI: Cross-Modal Recipe Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=flat-square&logo=python&logoColor=white)
